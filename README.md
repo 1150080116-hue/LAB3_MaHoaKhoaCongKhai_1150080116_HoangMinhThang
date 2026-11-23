@@ -1,4 +1,4 @@
-# BÁO CÁO VÀ HƯỚNG DẪN NỘP BÀI THỰC HÀNH
+# BÁO CÁO
 
 ## 1. THÔNG TIN SINH VIÊN
 - **Họ và tên**: Hoàng Minh Thắng
